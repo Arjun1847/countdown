@@ -1,0 +1,9 @@
+.num{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    align-items: center;
+    justify-content:flex-end;
+
+}
+body{
+    background-color:gold ;
+}
